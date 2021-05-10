@@ -1,9 +1,7 @@
 ---
-title: >-
-  Veterans Utilization Profile FY18 - Fig 16, Percentage of Service-Connected
-  Disable Who Did and Did Not Use Health Care, by Disability Rating
-created: '2021-02-10T19:03:16.952205'
-modified: '2021-04-21T20:50:09.462984'
+title: 'Veterans Utilization Profile FY18 - Fig 1, Utilization by Program'
+created: '2021-02-10T19:03:18.894289'
+modified: '2021-04-21T20:53:47.445815'
 state: active
 type: dataset
 tags:
@@ -12,9 +10,9 @@ tags:
   - Veterans
   - Veterans Benefits
 groups: []
-csv_url: 'https://www.data.va.gov/api/views/gsm5-6qui/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://www.data.va.gov/api/views/gsm5-6qui/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://www.data.va.gov/api/views/jce9-efvy/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://www.data.va.gov/api/views/jce9-efvy/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Percentage of Service-Connected Disable Who Did and Did Not Use Health Care, by Disability Rating, FY 2018. Data underlying the third figure of Part 3 of the FY2018 Utilization Profile, a report on Veterans' use of VA benefits and services.
+Data underlying the first figure in the FY2018 Utilization Profile, a report on Veterans' use of VA benefits and services.
