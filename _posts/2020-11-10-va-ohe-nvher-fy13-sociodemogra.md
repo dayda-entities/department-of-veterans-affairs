@@ -1,16 +1,16 @@
 ---
-title: VA-OHE-NVHER-FY13-Sociodemographic-Geography
-created: '2020-11-10T17:15:02.933269'
-modified: '2021-04-21T20:42:40.933905'
+title: VA-OHE-NVHER-FY13-Sociodemographic-Race/Ethnicity
+created: '2020-11-10T17:16:42.783897'
+modified: '2021-04-21T20:55:07.921452'
 state: active
 type: dataset
 tags:
+  - Ethnicity
   - Healthcare
-  - Rural Veterans
 groups: []
-csv_url: 'https://www.data.va.gov/api/views/c3qm-38dv/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://www.data.va.gov/api/views/c3qm-38dv/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://www.data.va.gov/api/views/kieg-d5az/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://www.data.va.gov/api/views/kieg-d5az/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Summary level data from the National Veteran Health Equity Report - FY2013, filtered by geography.
+Summary level data from the National Veteran Health Equity Report - FY2013, filtered by race & ethnicity.
