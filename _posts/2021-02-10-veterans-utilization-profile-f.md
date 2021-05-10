@@ -1,9 +1,9 @@
 ---
 title: >-
-  Veterans Utilization Profile FY18 - Fig 17, Percentage of Service-Connected
-  Disabled Who Did and Did Not Use Health Care, by Race
-created: '2021-02-10T19:03:16.332189'
-modified: '2021-04-21T20:44:11.323287'
+  Veterans Utilization Profile FY18 - Fig 10, Percent Users vs Non-Users
+  Distribution by Age Group - Males
+created: '2021-02-10T19:03:18.105279'
+modified: '2021-04-21T20:51:52.109531'
 state: active
 type: dataset
 tags:
@@ -12,9 +12,9 @@ tags:
   - Veterans
   - Veterans Benefits
 groups: []
-csv_url: 'https://www.data.va.gov/api/views/d5k2-t34u/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://www.data.va.gov/api/views/d5k2-t34u/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://www.data.va.gov/api/views/hvy5-4umv/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://www.data.va.gov/api/views/hvy5-4umv/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Percentage of Service-Connected Disabled Who Did and Did Not Use Health Care, by Race. Data underlying the fourth figure of Part 2 of the FY2018 Utilization Profile, a report on Veterans' use of VA benefits and services.
+Veterans Utilization Profile FY18 - Fig 10, Percent Users vs Non-Users Distribution by Age Group - Males. Data underlying the second figure of Part 2 of the FY2018 Utilization Profile, a report on Veterans' use of VA benefits and services.
