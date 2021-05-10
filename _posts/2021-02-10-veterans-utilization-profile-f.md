@@ -1,7 +1,9 @@
 ---
-title: 'Veterans Utilization Profile FY18 - Fig 1, Utilization by Program'
-created: '2021-02-10T19:03:18.894289'
-modified: '2021-04-21T20:53:47.445815'
+title: >-
+  Veterans Utilization Profile FY18 - Fig 11, Percent Users vs Non-Users
+  Distribution by Age Group - Females
+created: '2021-02-10T19:03:21.218413'
+modified: '2021-04-21T21:03:36.066360'
 state: active
 type: dataset
 tags:
@@ -10,9 +12,9 @@ tags:
   - Veterans
   - Veterans Benefits
 groups: []
-csv_url: 'https://www.data.va.gov/api/views/jce9-efvy/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://www.data.va.gov/api/views/jce9-efvy/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://www.data.va.gov/api/views/t3gj-uw4s/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://www.data.va.gov/api/views/t3gj-uw4s/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Data underlying the first figure in the FY2018 Utilization Profile, a report on Veterans' use of VA benefits and services.
+Percent Users vs Non-Users Distribution by Age Group - Females. Data underlying the third figure of Part 2 of the FY2018 Utilization Profile, a report on Veterans' use of VA benefits and services.
