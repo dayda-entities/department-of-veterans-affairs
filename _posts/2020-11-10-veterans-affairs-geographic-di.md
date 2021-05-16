@@ -1,18 +1,17 @@
 ---
 title: >-
-  Veterans Affairs Geographic Distribution of Expenditures FY09 by Congressional
-  District
-created: '2020-11-10T17:19:03.331440'
-modified: '2021-04-17T01:49:32.102637'
+  Veterans Affairs Geographic Distribution of Expenditures FY09 by State and
+  County
+created: '2020-11-10T17:18:38.193737'
+modified: '2021-04-17T01:46:37.016679'
 state: active
 type: dataset
 tags:
   - Expenditure
   - Veteran
 groups: []
-csv_url: >-
-  https://www.va.gov/VETDATA/docs/Datagov/DataGov_GDX_FY09_Congressional_District.csv
-json_url: ''
+csv_url: 'https://www.data.va.gov/api/views/vn8v-7r5k/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://www.data.va.gov/api/views/vn8v-7r5k/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
