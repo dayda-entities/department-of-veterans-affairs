@@ -1,17 +1,17 @@
 ---
 title: >-
-  Veterans Affairs Geographic Distribution of Expenditures FY08 by State and
+  Veterans Affairs Geographic Distribution of Expenditures FY06 by State and
   County
-created: '2020-11-10T17:17:06.676333'
-modified: '2021-04-21T20:57:01.066958'
+created: '2020-11-10T17:18:46.054232'
+modified: '2021-04-17T01:47:34.344704'
 state: active
 type: dataset
 tags:
   - Expenditure
   - Veteran
 groups: []
-csv_url: 'https://www.data.va.gov/api/views/mzhw-i2y6/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://www.data.va.gov/api/views/mzhw-i2y6/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://www.data.va.gov/api/views/wci5-y2m7/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://www.data.va.gov/api/views/wci5-y2m7/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
