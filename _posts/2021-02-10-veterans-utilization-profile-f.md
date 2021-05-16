@@ -1,9 +1,9 @@
 ---
 title: >-
-  Veterans Utilization Profile FY18 - Fig 4, Trend in Rate of Users by Gender
-  over Time
-created: '2021-02-10T19:03:16.947452'
-modified: '2021-04-21T20:51:39.391734'
+  Veterans Utilization Profile FY18 - Fig 14, Trend in Percent of Health Care &
+  Compensation Users vs Other Users
+created: '2021-02-10T19:03:24.967255'
+modified: '2021-04-21T21:08:18.261450'
 state: active
 type: dataset
 tags:
@@ -12,9 +12,9 @@ tags:
   - Veterans
   - Veterans Benefits
 groups: []
-csv_url: 'https://www.data.va.gov/api/views/hprb-az5y/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://www.data.va.gov/api/views/hprb-az5y/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://www.data.va.gov/api/views/wdtt-7pm9/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://www.data.va.gov/api/views/wdtt-7pm9/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Trend in Rate of Users by Gender over Time, FY 2009 - 2018. Data underlying the third figure of Part 1 of the FY2018 Utilization Profile, a report on Veterans' use of VA benefits and services.
+Trend in Percent of Health Care & Compensation Users vs Other Users. Data underlying the first figure of Part 3 of the FY2018 Utilization Profile, a report on Veterans' use of VA benefits and services.
