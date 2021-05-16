@@ -1,7 +1,7 @@
 ---
-title: FY 2019 Disability Pension Recipient by County
-created: '2021-03-27T06:16:02.787694'
-modified: '2021-04-21T20:54:36.304135'
+title: FY 2019 Disability Pension Recipient by State
+created: '2021-03-27T06:17:38.475050'
+modified: '2021-04-21T21:05:48.670850'
 state: active
 type: dataset
 tags:
@@ -9,9 +9,9 @@ tags:
   - Disability
   - Fy19
 groups: []
-csv_url: 'https://www.data.va.gov/api/views/k42f-3ku6/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://www.data.va.gov/api/views/k42f-3ku6/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://www.data.va.gov/api/views/uq82-m9cd/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://www.data.va.gov/api/views/uq82-m9cd/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-These reports provide county-level estimates of the number of Veterans who received VA Disability Compensation or Pension benefits during the reported Fiscal Year.  It includes the Veterans’ total disability rating, age group, and gender.
+This report provides state level estimates of the number of Veterans who received VA Disability Compensation or Pension benefits during the reported Fiscal Year.  It includes the Veterans’ total disability rating, age group, and gender.
