@@ -1,18 +1,17 @@
 ---
-title: Veterans who participated in Vocational Rehabilitation & Employment Programs
-created: '2021-03-19T19:53:08.757460'
-modified: '2021-04-21T21:10:29.451168'
+title: Veterans who participated in VA Home Loan Guaranty Program
+created: '2021-03-19T19:51:39.904968'
+modified: '2021-04-21T20:47:07.009632'
 state: active
 type: dataset
 tags:
-  - Employment Program
+  - Home Loan Guaranty
   - Veteran
   - Veteran Benefits
-  - Vocational Rehabilitation
 groups: []
-csv_url: 'https://www.data.va.gov/api/views/y94k-kvst/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://www.data.va.gov/api/views/y94k-kvst/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://www.data.va.gov/api/views/ey9g-uxvm/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://www.data.va.gov/api/views/ey9g-uxvm/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Vocational Rehabilitation: All Veterans who participated in various stages of the Vocational Rehabilitation and Employment program were included. Veterans Benefits Administration (VBA) provides Vocational Rehabilitation/employment services.
+Loan Guaranty: All Veterans who had an active, new or re-financed VA-guaranteed home loan were included. Veterans Benefits Administration (VBA) provides Home Loan Guaranty assistance.
